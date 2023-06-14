@@ -1,4 +1,4 @@
-# demo-registration# 
+# DemoRegistration - iOS
 
 This iOS project provides a simple registration page where users can create an account by providing their information. It serves as a starting point for implementing user registration functionality in an iOS app.
 
